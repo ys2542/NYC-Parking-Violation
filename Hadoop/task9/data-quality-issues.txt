@@ -1,0 +1,9 @@
+1. There are a lot typos in each column.
+
+2. In vehicle_color column, there are too many same color with different names(ex. Yellow, Ye, Yello...).
+
+3. A lot missing values.
+
+4. A state called 99, and it appears many times.
+
+5. There is comma in some rows and columns, and it may cause a split problem.
