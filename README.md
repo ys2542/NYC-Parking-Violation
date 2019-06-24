@@ -2,7 +2,7 @@
 
 The dataset can be found here: https://vgc.poly.edu/~juliana/courses/BigData2018/Data/parking-violations.tar.gz
 
-1. Using MapReduce to explore NYC parking violations in Hadoop:
+## Using MapReduce to explore NYC parking violations in Hadoop:
 
 task1: Write a map-reduce job that finds all parking violations that have been paid, i.e., that do not
 occur in open-violations.csv.
@@ -33,7 +33,7 @@ task9:  List any data quality issues you have encountered in the provided datase
 data-quality-issues.txt
 
 
-2. Using Spark to explore NYC parking violations:
+## Using Spark to explore NYC parking violations:
 
 For each task you will use both core Spark using RDDs and SparkSQL using DataFrames. 
 
